@@ -1,0 +1,40 @@
+.h1{
+    color: rgb(0, 0, 0);
+    font-size: 35x;
+    text-align: center;
+}
+.p{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+}
+body{
+    background-color: black;
+    background-image: url(Screenshot\ 2024-10-29\ 225611.png);
+    background-size: 1750px;
+
+}
+.button{
+    font-size: 125px;
+    width: 200px;
+    
+
+}
+.mia{
+    color: rgb(238, 220, 185);
+    font-size: 40px;
+}
+.no{
+    font-size: 125px;
+    width: 200px;
+}
+.div{
+    text-align: center;
+    height: 100px;
+}
+.na{
+    color: rgb(78, 53, 5);
+    font-size: 30px;
+}
+.omg{
+  
+}
